@@ -1,6 +1,6 @@
 # flutter_examples
 
-A new Flutter project.
+в проекте собраны различные примеры для реализации наиболее распространенных страниц на flutter
 
 ## Getting Started
 
